@@ -1,0 +1,5 @@
+com\restaurante\servlets\ClienteServlet.class
+com\restaurante\restaurante\web\resources\JakartaEE10Resource.class
+com\restaurante\servlets\ProductoServlet.class
+com\restaurante\restaurante\web\JakartaRestConfiguration.class
+com\restaurante\servlets\PedidoServlet.class
